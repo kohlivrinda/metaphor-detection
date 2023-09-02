@@ -1,2 +1,3 @@
-- set up basic distilbert sequence classification
+- set up basic distilbert sequence classification (done)
 - ensemble 
+- POS, FGPOS features for distilbert.
